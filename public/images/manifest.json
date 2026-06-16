@@ -1,0 +1,563 @@
+{
+  "generated": "2026-06-16T19:23:26.165Z",
+  "homePageImageCount": 10,
+  "countriesWithImages": [
+    "AZERBAIJAN",
+    "CAMBODIA",
+    "CHINA",
+    "DUBAI",
+    "EGYPT",
+    "INDONESIA",
+    "MALAYSIA",
+    "MALDIVES",
+    "SINGAPORE",
+    "SRILANKA",
+    "THAILAND",
+    "TURKEY",
+    "UNITEDKINGDOM",
+    "VIETNAM"
+  ],
+  "countriesWithMustVisit": [
+    "AZERBAIJAN",
+    "CAMBODIA",
+    "CHINA",
+    "DUBAI",
+    "EGYPT",
+    "INDONESIA",
+    "MALAYSIA",
+    "MALDIVES",
+    "SINGAPORE",
+    "SRILANKA",
+    "THAILAND",
+    "TURKEY",
+    "UNITEDKINGDOM",
+    "VIETNAM"
+  ],
+  "totalImages": 87,
+  "byCountry": {
+    "AZERBAIJAN": {
+      "total": 5,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "azerbaijan-main-image.jpeg",
+          "relativePath": "explore\\azerbaijan\\azerbaijan-main-image.jpeg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "flame-towers-card-1.jpeg",
+          "relativePath": "explore\\azerbaijan\\must visit\\flame-towers-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "gobusthan-rock-art-card-3.jpg",
+          "relativePath": "explore\\azerbaijan\\must visit\\gobusthan-rock-art-card-3.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "heydar-mosque-card-4.jpeg",
+          "relativePath": "explore\\azerbaijan\\must visit\\heydar-mosque-card-4.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "old-city-baku-card-2.jpeg",
+          "relativePath": "explore\\azerbaijan\\must visit\\old-city-baku-card-2.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "CAMBODIA": {
+      "total": 5,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "cambodia-main-image.jpeg",
+          "relativePath": "explore\\cambodia\\cambodia-main-image.jpeg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "angkor-wat-card-1.jpeg",
+          "relativePath": "explore\\cambodia\\must visit\\angkor-wat-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "bayon-temple-card-2.jpeg",
+          "relativePath": "explore\\cambodia\\must visit\\bayon-temple-card-2.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "phnom-penh-card-4.jpeg",
+          "relativePath": "explore\\cambodia\\must visit\\phnom-penh-card-4.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "tuol-sleng-museum-card-3.jpeg",
+          "relativePath": "explore\\cambodia\\must visit\\tuol-sleng-museum-card-3.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "CHINA": {
+      "total": 6,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "china-main-image.webp",
+          "relativePath": "explore\\china\\china-main-image.webp",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "forbidden-city-card-2.webp",
+          "relativePath": "explore\\china\\must visit\\forbidden-city-card-2.webp",
+          "type": "card"
+        },
+        {
+          "filename": "great-wall-china-card-1.jpeg",
+          "relativePath": "explore\\china\\must visit\\great-wall-china-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "li-river-card-5.jpeg",
+          "relativePath": "explore\\china\\must visit\\li-river-card-5.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "terracotta-army-card-3.jpg",
+          "relativePath": "explore\\china\\must visit\\terracotta-army-card-3.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "zhangjiajie-card-4.jpg",
+          "relativePath": "explore\\china\\must visit\\zhangjiajie-card-4.jpg",
+          "type": "card"
+        }
+      ]
+    },
+    "DUBAI": {
+      "total": 6,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "dubai-main-image.webp",
+          "relativePath": "explore\\dubai\\dubai-main-image.webp",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "burju-kalifa-card-1.jpeg",
+          "relativePath": "explore\\dubai\\must visit\\burju-kalifa-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "desert-safari-card-4.jpg",
+          "relativePath": "explore\\dubai\\must visit\\desert-safari-card-4.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "malls-fountains-card-5.jpeg",
+          "relativePath": "explore\\dubai\\must visit\\malls-fountains-card-5.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "palm-jumeirah-card-3.jpeg",
+          "relativePath": "explore\\dubai\\must visit\\palm-jumeirah-card-3.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "sheikh-zayed-card-2.jpg",
+          "relativePath": "explore\\dubai\\must visit\\sheikh-zayed-card-2.jpg",
+          "type": "card"
+        }
+      ]
+    },
+    "EGYPT": {
+      "total": 6,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "egypt-main-image.jpeg",
+          "relativePath": "explore\\egypt\\egypt-main-image.jpeg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "abu-symbol-card-4.jpeg",
+          "relativePath": "explore\\egypt\\must visit\\abu-symbol-card-4.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "karnak-temple-card-2.webp",
+          "relativePath": "explore\\egypt\\must visit\\karnak-temple-card-2.webp",
+          "type": "card"
+        },
+        {
+          "filename": "pyramids-giza-card-1.jpeg",
+          "relativePath": "explore\\egypt\\must visit\\pyramids-giza-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "red-sea-coral-card-5.jpeg",
+          "relativePath": "explore\\egypt\\must visit\\red-sea-coral-card-5.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "valley-of-kings-card-3.jpeg",
+          "relativePath": "explore\\egypt\\must visit\\valley-of-kings-card-3.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "INDONESIA": {
+      "total": 6,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "indonesia-main-image.jpeg",
+          "relativePath": "explore\\indonesia\\indonesia-main-image.jpeg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "borobudur-card-2.jpeg",
+          "relativePath": "explore\\indonesia\\must visit\\borobudur-card-2.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "komodo-national-park-card-3.jpeg",
+          "relativePath": "explore\\indonesia\\must visit\\komodo-national-park-card-3.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "mount-bromo-card-5.jpeg",
+          "relativePath": "explore\\indonesia\\must visit\\mount-bromo-card-5.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "tegalaland-rice-terrace-card-4.webp",
+          "relativePath": "explore\\indonesia\\must visit\\tegalaland-rice-terrace-card-4.webp",
+          "type": "card"
+        },
+        {
+          "filename": "thanah-lot-temple-card-1.jpeg",
+          "relativePath": "explore\\indonesia\\must visit\\thanah-lot-temple-card-1.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "MALAYSIA": {
+      "total": 5,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "malasia-main-image.jpg",
+          "relativePath": "explore\\malaysia\\malasia-main-image.jpg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "battu-caves-card-2.jpeg",
+          "relativePath": "explore\\malaysia\\must visit\\battu-caves-card-2.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "george-town-card-4.jpeg",
+          "relativePath": "explore\\malaysia\\must visit\\george-town-card-4.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "langkawi-card-3.jpeg",
+          "relativePath": "explore\\malaysia\\must visit\\langkawi-card-3.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "petrona-towers-card-1.jpg",
+          "relativePath": "explore\\malaysia\\must visit\\petrona-towers-card-1.jpg",
+          "type": "card"
+        }
+      ]
+    },
+    "MALDIVES": {
+      "total": 4,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "maldives-main-image.jpg",
+          "relativePath": "explore\\maldives\\maldives-main-image.jpg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "hanifaru-bay-card-2.jpeg",
+          "relativePath": "explore\\maldives\\must visit\\hanifaru-bay-card-2.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "over-water-villas-card-1.jpeg",
+          "relativePath": "explore\\maldives\\must visit\\over-water-villas-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "sea-of-stars-card-3.jpeg",
+          "relativePath": "explore\\maldives\\must visit\\sea-of-stars-card-3.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "SINGAPORE": {
+      "total": 5,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "singapore-main-image.webp",
+          "relativePath": "explore\\singapore\\singapore-main-image.webp",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "china-town-card-4.webp",
+          "relativePath": "explore\\singapore\\must visit\\china-town-card-4.webp",
+          "type": "card"
+        },
+        {
+          "filename": "gardens-by-the-bay-card-2.jpeg",
+          "relativePath": "explore\\singapore\\must visit\\gardens-by-the-bay-card-2.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "marina-bay-card-1.jpg",
+          "relativePath": "explore\\singapore\\must visit\\marina-bay-card-1.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "sentosa-island-card-3.jpeg",
+          "relativePath": "explore\\singapore\\must visit\\sentosa-island-card-3.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "SRILANKA": {
+      "total": 4,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "sri-lanka-main-image.png",
+          "relativePath": "explore\\sri lanka\\sri-lanka-main-image.png",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "galle-fort-card-3.jpeg",
+          "relativePath": "explore\\sri lanka\\must visit\\galle-fort-card-3.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "lion-rock-card-1.jpeg",
+          "relativePath": "explore\\sri lanka\\must visit\\lion-rock-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "nine-arches-bridge-card-2.webp",
+          "relativePath": "explore\\sri lanka\\must visit\\nine-arches-bridge-card-2.webp",
+          "type": "card"
+        }
+      ]
+    },
+    "THAILAND": {
+      "total": 7,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "Thailand-main-card.webp",
+          "relativePath": "explore\\thailand\\Thailand-main-card.webp",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "ayutthaya-card-6.jpg",
+          "relativePath": "explore\\thailand\\must-visit\\ayutthaya-card-6.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "chiang-mai-old-city-card-4.webp",
+          "relativePath": "explore\\thailand\\must-visit\\chiang-mai-old-city-card-4.webp",
+          "type": "card"
+        },
+        {
+          "filename": "grand-palace-card-1.jpg",
+          "relativePath": "explore\\thailand\\must-visit\\grand-palace-card-1.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "phi-phi-island-card-3.jpg",
+          "relativePath": "explore\\thailand\\must-visit\\phi-phi-island-card-3.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "Phuket-beaches-card-5.webp",
+          "relativePath": "explore\\thailand\\must-visit\\Phuket-beaches-card-5.webp",
+          "type": "card"
+        },
+        {
+          "filename": "wat-arun-card-2.jpg",
+          "relativePath": "explore\\thailand\\must-visit\\wat-arun-card-2.jpg",
+          "type": "card"
+        }
+      ]
+    },
+    "TURKEY": {
+      "total": 6,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "turkey-main-images.avif",
+          "relativePath": "explore\\turkey\\turkey-main-images.avif",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "blue-mosque-card-2.jpeg",
+          "relativePath": "explore\\turkey\\must visit\\blue-mosque-card-2.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "capadosia-ballon-card-3.jpg",
+          "relativePath": "explore\\turkey\\must visit\\capadosia-ballon-card-3.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "ephesus-card-5.jpeg",
+          "relativePath": "explore\\turkey\\must visit\\ephesus-card-5.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "hagai-sophia-card-1.jpeg",
+          "relativePath": "explore\\turkey\\must visit\\hagai-sophia-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "pammukale-card-4.jpeg",
+          "relativePath": "explore\\turkey\\must visit\\pammukale-card-4.jpeg",
+          "type": "card"
+        }
+      ]
+    },
+    "UNITEDKINGDOM": {
+      "total": 7,
+      "mainImages": 0,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "images.jpeg",
+          "relativePath": "explore\\united kingdom\\images.jpeg"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "8-big-ben-min-card-1.jpg",
+          "relativePath": "explore\\united kingdom\\must visit\\8-big-ben-min-card-1.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "Edinburgh-Castle-card-4.webp",
+          "relativePath": "explore\\united kingdom\\must visit\\Edinburgh-Castle-card-4.webp",
+          "type": "card"
+        },
+        {
+          "filename": "LakeDistrict-card-5.jpg",
+          "relativePath": "explore\\united kingdom\\must visit\\LakeDistrict-card-5.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "stone-henge-card-3.jpg",
+          "relativePath": "explore\\united kingdom\\must visit\\stone-henge-card-3.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "the-great-bath-card-6.jpg",
+          "relativePath": "explore\\united kingdom\\must visit\\the-great-bath-card-6.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "Tower-of-London-card-2.jpg",
+          "relativePath": "explore\\united kingdom\\must visit\\Tower-of-London-card-2.jpg",
+          "type": "card"
+        }
+      ]
+    },
+    "VIETNAM": {
+      "total": 5,
+      "mainImages": 1,
+      "cardImages": 0,
+      "hasMustVisit": true,
+      "images": [
+        {
+          "filename": "vietnam-main-image.jpeg",
+          "relativePath": "explore\\vietnam\\vietnam-main-image.jpeg",
+          "type": "main"
+        }
+      ],
+      "mustVisit": [
+        {
+          "filename": "ha-long-bay-card-1.jpeg",
+          "relativePath": "explore\\vietnam\\must visit\\ha-long-bay-card-1.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "hoi-an-old-town-card-2.jpg",
+          "relativePath": "explore\\vietnam\\must visit\\hoi-an-old-town-card-2.jpg",
+          "type": "card"
+        },
+        {
+          "filename": "phong-nha-caves-card-4.jpeg",
+          "relativePath": "explore\\vietnam\\must visit\\phong-nha-caves-card-4.jpeg",
+          "type": "card"
+        },
+        {
+          "filename": "sapa-card-3.jpeg",
+          "relativePath": "explore\\vietnam\\must visit\\sapa-card-3.jpeg",
+          "type": "card"
+        }
+      ]
+    }
+  }
+}
